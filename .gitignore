@@ -1,0 +1,16 @@
+# Arquivos temporários ou gerados
+node_modules/
+dist/
+.env
+# Arquivos de compilação TypeScript
+*.js
+*.js.map
+
+# Arquivo de configuração do TypeScript
+tsconfig.json
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração específicos para desenvolvedor
+.vscode/
